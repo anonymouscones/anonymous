@@ -6,6 +6,6 @@
 
 ![image](https://github.com/anonymouscones/anonymous/blob/main/assets/interpolation.jpg)
 
-## Comparison of overfitting
-
-
+## Failure modes
+![image](https://github.com/anonymouscones/anonymous/blob/main/assets/failure_cases.jpg)
+![image](https://github.com/anonymouscones/anonymous/blob/main/assets/five_subjects.jpg)
