@@ -1,4 +1,4 @@
-# Rebuttal
+# Author response to Reviewer 56JA
 ## More results on [Versatile Diffusion](https://arxiv.org/abs/2211.08332)
 ![image](https://github.com/anonymouscones/anonymous/blob/main/assets/other_architecture.jpg)
 ## Failure cases
