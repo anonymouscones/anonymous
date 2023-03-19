@@ -1,5 +1,5 @@
 
-# Author response to reviewer xCLD
+# Author response to Reviewer xCLD
 
 
 ##  Interpolation results between the activation of different concepts
