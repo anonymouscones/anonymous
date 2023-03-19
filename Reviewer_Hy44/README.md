@@ -12,4 +12,4 @@
 
 ### Generated images of five subjects
 
-![image](https://github.com/anonymouscones/anonymous/blob/main/assets/five_subjects.jpg.jpg)
+![image](https://github.com/anonymouscones/anonymous/blob/main/assets/five_subjects.jpg)
