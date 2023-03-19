@@ -9,4 +9,4 @@
 
 ## Fig. A5 Generated images of five subjects
 ### We observe significantly more failure cases when generating five or more subjects.
-![image](https://github.com/anonymouscones/anonymous/blob/main/assets/five_subjects.jpg)AND
+![image](https://github.com/anonymouscones/anonymous/blob/main/assets/five_subjects.jpg)
