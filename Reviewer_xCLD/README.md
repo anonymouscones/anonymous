@@ -7,5 +7,5 @@
 ![image](https://github.com/anonymouscones/anonymous/blob/main/assets/interpolation.jpg)
 
 ## Comparison of overfitting
-![image](https://github.com/anonymouscones/anonymous/blob/main/assets/over.jpg)
+
 
