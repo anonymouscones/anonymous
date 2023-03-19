@@ -1,8 +1,8 @@
 
-# Rebuttal
+# Author response to reviewer xCLD
 
 
-##  Interpolation results between the activation of various concepts
+##  Interpolation results between the activation of different concepts
 
 ![image](https://github.com/anonymouscones/anonymous/blob/main/assets/interpolation.jpg)
 
