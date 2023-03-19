@@ -1,4 +1,4 @@
-#Rebuttal
+# Rebuttal
 ## More results on [Versatile Diffusion](https://arxiv.org/abs/2211.08332)
 
 ## Failure cases
