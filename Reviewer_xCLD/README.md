@@ -3,7 +3,7 @@
 
 
 ## Fig. A1: Interpolation results between the activation of different concepts
-#### We generate images by interpolating the activation of the two concepts, the horizontal axis represents the different weights of the two concepts, and the middle image represents the equal weight of the two concepts
+#### We generate images by interpolating the activation of the two concepts, the horizontal axis represents the different weights of the two concepts, and the middle image represents the equal weight of the two concepts.
 ![image](https://github.com/anonymouscones/anonymous/blob/main/assets/interpolation.jpg)
 
 ## Fig. A2: Failure modes 
