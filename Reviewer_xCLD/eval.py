@@ -1,4 +1,4 @@
-import preclip.clip as clip
+import clip
 import torch
 from torchvision import transforms
 import argparse
